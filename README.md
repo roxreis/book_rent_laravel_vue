@@ -11,15 +11,15 @@
 1. Clone this repository.
 
 ```bash
-$ git clone https://github.com/kawaus03/docker-laravel-vue.git
+$ git clone https://github.com/roxreis/book_rent_laravel_vue
 ```
 
 2. Clone the Laravel and Vuejs project in the `src` dir.
 
 ```bash
 $ cd docker-laravel-vue/src
-$ git clone https://github.com/kawaus03/laravel-sanctum.git
-$ git clone https://github.com/kawaus03/vue-sanctum.git
+$ git clone https://github.com/roxreis/laravel-sanctum
+$ git clone https://github.com/roxreis/vue-sanctum
 ```
 
 3. Running the initial installation.
